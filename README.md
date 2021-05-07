@@ -15,3 +15,9 @@
 - `model_1_3.hdf5`: Saved weights for the trained model.
 - `logs_1_3.txt`: Contains the training logs for the model.
 - `requirements.txt`: version of certain libraries required. Do !pip install requirements.txt
+### Our Research Group
+#### Supervisor : Prof. Manish Okade, Dept. of Electronics and Communication Engineering NIT Rourkela.
+- Bibhash Pran Das, Dept of ECE, NIT Rourkela
+- Mrutyunjay Biswal, Dept of ECE, NIT Rourkela
+- Billa Nikhil Reddy, Dept of Electrical Engineering, NIT Rourkela
+- Abharnta Panigrahi, Dept of Biomedical Engineering, NIT Rourkela
