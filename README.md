@@ -7,7 +7,7 @@
 ### File Descriptions
 - The folder `proposed (preprocessing layer)` contains all files and findings for our proposed method
 - `Proposed_Method.ipynb`: Contains the creation and training of the deep learning model.
-- `CNN.ipynb`: Contains the performance of CNN for Resizing Forensics
+- `baseline_train.ipynb`: Contains model without preprcoseesing layer(CNN) for Resizing Forensics
 - `Results.ipynb`: Contains the results i.e accuracy vs resizing factor and accuracy vs Quality Factor 2.
 - `DataLoader.py` : Contains the generator required for loading data during model training
 - `utilities.py`: Contains the data preparation algorithm
