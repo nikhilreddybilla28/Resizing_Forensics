@@ -18,7 +18,7 @@
 - `requirements.txt`: version of certain libraries required. Do !pip install requirements.txt
 ### Our Research Group
 #### Supervisor : Prof. Manish Okade, Dept. of Electronics and Communication Engineering NIT Rourkela.
+- Billa Nikhil Reddy, Dept of Electrical Engineering, NIT Rourkela
 - Bibhash Pran Das, Dept of ECE, NIT Rourkela
 - Mrutyunjay Biswal, Dept of ECE, NIT Rourkela
-- Billa Nikhil Reddy, Dept of Electrical Engineering, NIT Rourkela
 - Abharnta Panigrahi, Dept of Biomedical Engineering, NIT Rourkela
